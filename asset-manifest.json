@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/virtual-friends/static/css/main.1a3cddee.chunk.css",
+    "main.js": "/virtual-friends/static/js/main.d54e28e2.chunk.js",
+    "main.js.map": "/virtual-friends/static/js/main.d54e28e2.chunk.js.map",
+    "runtime-main.js": "/virtual-friends/static/js/runtime-main.4daf2c49.js",
+    "runtime-main.js.map": "/virtual-friends/static/js/runtime-main.4daf2c49.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/virtual-friends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.33cbe468.chunk.js": "/virtual-friends/static/js/2.33cbe468.chunk.js",
+    "static/js/2.33cbe468.chunk.js.map": "/virtual-friends/static/js/2.33cbe468.chunk.js.map",
+    "index.html": "/virtual-friends/index.html",
+    "precache-manifest.c6e6ec2e5809fdb07406241b5e816ef8.js": "/virtual-friends/precache-manifest.c6e6ec2e5809fdb07406241b5e816ef8.js",
+    "service-worker.js": "/virtual-friends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/virtual-friends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.1a3cddee.chunk.css.map": "/virtual-friends/static/css/main.1a3cddee.chunk.css.map",
+    "static/media/App.css": "/virtual-friends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4daf2c49.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.33cbe468.chunk.js",
+    "static/css/main.1a3cddee.chunk.css",
+    "static/js/main.d54e28e2.chunk.js"
+  ]
+}
