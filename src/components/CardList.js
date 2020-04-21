@@ -11,9 +11,9 @@ const CardList = ({avatars}) => {
                 <Card 
                     key={i} 
                     id={user.id} 
-                    name={user.name + " " + user.surname} 
+                    name={user.name /*+ " " + user.surname*/} 
                     email={user.email}
-                    region={user.region}
+                    /*region={user.region}*/
                 />
         );
     })

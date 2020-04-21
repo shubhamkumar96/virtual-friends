@@ -20,8 +20,8 @@ class App extends Component{
     }
 
     componentDidMount(){
-        // fetch('https://jsonplaceholder.typicode.com/users')
-        fetch('https://uinames.com/api/?region=india&amount=25&gender=male&ext')
+        fetch('https://jsonplaceholder.typicode.com/users')
+        // fetch('https://uinames.com/api/?region=india&amount=25&gender=male&ext') --> This link is not working anymore.
         .then(response => response.json())
         .then(users => this.setState({avatars: users}));
     }
